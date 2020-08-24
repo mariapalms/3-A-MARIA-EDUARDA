@@ -1,0 +1,1 @@
+o netlify ele funcionou somento com o index.html com o nome original não funcionou, por isso estou postando os 2 html mesmo sendo iguais
